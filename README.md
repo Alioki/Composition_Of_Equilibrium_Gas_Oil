@@ -11,8 +11,8 @@ In this study, we examined a mixture of three components—methane (CH₄), norm
 
 ## Applications
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+
+This method, demonstrated through a simplified example, can be extended to more complex hydrocarbon mixtures containing various components. By utilizing the same approach with the **K-factor** calculations, along with **Peng-Robinson equation of state**, **fugacity coefficients**, and **flash calculations**, it is possible to accurately determine the phase composition of multiple components in a mixture. For each component, required parameters include the **mole fraction**, **critical temperature** and **pressure**, **acentric factor**, and **vapor pressure**. This enables accurate modeling of phase behavior in reservoirs, which is critical for optimizing production processes. The capability to calculate gas and liquid compositions under various conditions makes this approach highly applicable in reservoir simulations, facility design, and overall resource management in hydrocarbon fields.
 
 ## Results
 
