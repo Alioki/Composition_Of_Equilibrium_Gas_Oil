@@ -43,8 +43,7 @@ This method, demonstrated through a simplified example, can be extended to more 
 
 ## Results
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+In conclusion, the K-factors obtained from our study are as follows: for methane, the K-factor is 3.9916; for normal butane (n-C₄), it is 0.2359; and for normal decane (n-C₁₀), it is 0.0031. These values are remarkably close to those found in the literature, validating the reliability of our approach. It is important to note that the data used, including critical temperature and pressure, acentric factor, and vapor pressure, are up-to-date and essential for accurate modeling of phase behavior in reservoirs. This accuracy is critical for optimizing production processes, enabling engineers to make informed decisions regarding the management and extraction of hydrocarbons.
 
 ## Refrences
 * How to run the program
