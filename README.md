@@ -14,9 +14,9 @@ Here's the expanded explanation in English:
 
 This code utilizes several equations to achieve accurate phase behavior predictions for hydrocarbon mixtures. The primary equation used is the **Peng-Robinson equation of state**, which is employed to predict the phase behavior of hydrocarbons under various temperature and pressure conditions. The Peng-Robinson equation is given as follows:
 
-\[
+$\[
 P = \frac{RT}{V - b} - \frac{a \alpha}{V(V + b) + b(V - b)}
-\]
+\]$
 
 where \( P \) is the pressure, \( T \) is the temperature, \( V \) is the molar volume, \( R \) is the universal gas constant, \( a \) and \( b \) are parameters related to the components of the mixture, and \( \alpha \) is a temperature-dependent function calculated based on the reduced temperature and the acentric factor of the components.
 
