@@ -15,11 +15,11 @@ $\[
 P = \frac{RT}{V - b} - \frac{a \alpha}{V(V + b) + b(V - b)}
 \]$
 
-where $\( P \) is the pressure, $\( T \) is the temperature, $\( V \) is the molar volume, $\( R \) is the universal gas constant, $\( a \) and $\( b \) are parameters related to the components of the mixture, and $\( \alpha \)$ is a temperature-dependent function calculated based on the reduced temperature and the acentric factor of the components.
+where $\( P \)$ is the pressure, $\( T \)$ is the temperature, $\( V \)$ is the molar volume, $\( R \)$ is the universal gas constant, $\( a \)$ and $\( b \)$ are parameters related to the components of the mixture, and $\( \alpha \)$ is a temperature-dependent function calculated based on the reduced temperature and the acentric factor of the components.
 
 Additionally, the **fugacity coefficient** is used to quantify the escape tendency of each component in both gas and liquid phases, ensuring that phase equilibrium between these phases is maintained. The fugacity coefficient for each component in the liquid and gas phases is calculated as follows:
 
-$\phi \:\:=\:\exp \:\:\left(\:Z\:-1\:-\ln \:\left(Z-B\right)\:-\:\frac{A}{2\sqrt{2}B}\:\ln \:\left(\frac{Z\:+\:\left(1\:+\:\sqrt{2}\right)B}{Z\:+\:\left(1\:-\:\sqrt{2}\right)B}\right)\right)$
+$\phi =\:\exp \:\:\left(\:Z\:-1\:-\ln \:\left(Z-B\right)\:-\:\frac{A}{2\sqrt{2}B}\:\ln \:\left(\frac{Z\:+\:\left(1\:+\:\sqrt{2}\right)B}{Z\:+\:\left(1\:-\:\sqrt{2}\right)B}\right)\right)$
 
 where \( \phi \) represents the fugacity coefficient, \( Z \) is the compressibility factor, and \( A \) and \( B \) are constants related to the equation of state and the composition of the mixture.
 
