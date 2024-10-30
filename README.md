@@ -3,8 +3,9 @@
 Estimate composition of equilibrium gas oil in given pressure and temperature
 
 ## Description
+Determining the proportions of gas and liquid in hydrocarbon reservoirs is critical for optimizing field production. Understanding the phase composition of each component in gas and liquid allows engineers to develop better strategies for production, management, and maintenance of hydrocarbon fields. One common method to estimate this composition is by using the **K-factor**, which can be derived with the help of equations of state, such as the **Peng-Robinson equation**, and by calculating the **fugacity coefficient**. This approach, combined with **flash calculations**, provides the equilibrium conditions between gas and liquid phases for a specific mixture.
 
-An in-depth paragraph about your project and overview of use.
+In this study, we examined a mixture of three components—methane (CH₄), normal butane (n-C₄), and normal decane (n-C₁₀)—with specific molar fractions (0.5301 for methane, 0.1055 for n-C₄, and 0.3644 for n-C₁₀). At a pressure of 1000 psi and a temperature of 210°F, the flash calculation was used to determine the phase composition of each component in both the gas and liquid phases. This method enables high accuracy in calculating and analyzing the phase behavior of hydrocarbon mixtures, supporting more informed decision-making in production processes.
 
 ## Methodology
 
