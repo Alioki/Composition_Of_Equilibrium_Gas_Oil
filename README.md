@@ -21,7 +21,7 @@ Additionally, the **fugacity coefficient** is used to quantify the escape tenden
 
 $\phi =\exp \left(Z-1-\ln \left(Z-B\right)-\frac{A}{2\sqrt{2}B}\ln \left(\frac{Z+\left(1+\sqrt{2}\right)B}{Z+\left(1-\sqrt{2}\right)B}\right)\right)$
 
-where \( \phi \) represents the fugacity coefficient, \( Z \) is the compressibility factor, and \( A \) and \( B \) are constants related to the equation of state and the composition of the mixture.
+where $\( \phi \)$ represents the fugacity coefficient, \( Z \) is the compressibility factor, and \( A \) and \( B \) are constants related to the equation of state and the composition of the mixture.
 
 The code also implements **flash calculations**, which are used to determine the phase distribution of each component (gas and liquid). These calculations involve determining the distribution ratio, or \( K \)-factor, for each component, which is given by:
 
