@@ -25,11 +25,11 @@ where \( \phi \) represents the fugacity coefficient, \( Z \) is the compressibi
 
 The code also implements **flash calculations**, which are used to determine the phase distribution of each component (gas and liquid). These calculations involve determining the distribution ratio, or \( K \)-factor, for each component, which is given by:
 
-\[
+$\[
 K = \frac{y}{x}
-\]
+\]$
 
-where \( y \) is the mole fraction of the component in the gas phase, and \( x \) is the mole fraction of the component in the liquid phase.
+where $\( y \)$ is the mole fraction of the component in the gas phase, and $\( x \)$ is the mole fraction of the component in the liquid phase.
 
 By using these equations and incorporating input parameters like critical temperature, critical pressure, and acentric factor for each component, the code enables more detailed analysis and prediction of phase behavior in complex mixtures. This method can be extended to handle multi-component systems, supporting a wide range of hydrocarbon reservoir modeling applications.
 ## Applications
